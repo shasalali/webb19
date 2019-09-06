@@ -13,3 +13,5 @@ Shacke 2
 >>>>>>> 78af7f2ba76c410d354fa02fe87e051516c91c70
 
 Karls ändringar 4 
+
+Karls ändringar 5
