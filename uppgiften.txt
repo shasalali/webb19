@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Karls Ändringar 7 
+=======
+Shackes ändringar 7
+>>>>>>> a5d5a1a5b153d48f8f3e20e75a229c8dfa94645e
